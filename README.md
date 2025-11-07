@@ -7,12 +7,12 @@
 
 ## ✨ Overview
 
-The idea behind **JINN** is simple - to summon your very own **cloud-native genie** 🪔 that fulfills your DevOps wishes.
+The idea behind **JINNAI** is simple - to summon your very own **cloud-native genie** 🪔 that fulfills your DevOps wishes.
 
-**JINN** lets you deploy a **cloud-provider-independent cluster management system** on a **blockchain network**, using your **custom toolset** for worldwide infrastructure automation.
+**JINNAI** lets you deploy a **cloud-provider-independent cluster management system** on a **blockchain network**, using your **custom toolset** for worldwide infrastructure automation.
 
 Whether you want to deploy across multiple clouds or anchor automation in decentralized systems -  
-**JINN** makes your wishes come true: fast, scalable, and global. 🌍
+**JINNAI** makes your wishes come true: fast, scalable, and global. 🌍
 
 ---
 
@@ -29,8 +29,8 @@ Whether you want to deploy across multiple clouds or anchor automation in decent
 ## 🪔 Example Wish
 
 ```bash
-jinn init cluster --name my-cluster --tools argocd,helm
-jinn destroy cluster --name my-cluster
+jinnai init cluster --name my-cluster --tools argocd,helm
+jinnai destroy cluster --name my-cluster
 ```
 
 <!-- ## 📦 Installation
