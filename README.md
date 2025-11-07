@@ -9,7 +9,7 @@
 
 The idea behind **JINNAI** is simple - to summon your very own **cloud-native AI genie** 🪔 that fulfills your DevOps wishes.
 
-**JINNAI** lets you deploy a **cloud-provider-independent cluster management system** on any cloud provider or on a **blockchain network**, using your **custom toolset** for worldwide infrastructure automation.
+**JINNAI** lets you deploy a **cluster management system** on any cloud provider or on a **blockchain network**, using your **custom toolset** for worldwide infrastructure automation.
 
 Whether you want to deploy across multiple clouds or anchor automation in decentralized systems -  
 **JINNAI** makes your wishes come true: fast, scalable, and global. 🌍
