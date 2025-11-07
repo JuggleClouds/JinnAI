@@ -15,6 +15,7 @@ Whether you want to deploy across multiple clouds or anchor automation in decent
 **JINNAI** makes your wishes come true: fast, scalable, and global. 🌍
 
 **JINNAI** is powered by a **restrained AI model** that predicts and suggests infrastructure configurations. You maintain full control over your infrastructure decisions, while **JINNAI** provides a comprehensive set of options and recommendations to guide your choices.
+
 ---
 
 ## 🧰 Key Features
