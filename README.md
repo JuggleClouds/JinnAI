@@ -1,4 +1,4 @@
-# 🧞‍♂️ JINN - The Wish-Driven Cloud Orchestrator 
+# 🧞‍♂️ JINNAI - The Wish-Driven Cloud Orchestrator 
 
 ![Jinn logo](./images/jinn.png)
 *“Your wish is my deployment…”*
